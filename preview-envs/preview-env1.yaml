@@ -1,2 +1,3 @@
-envName: preview-env1
+envName: preview-test-2
+message: "This is preview Test2"
 replicas: 3
